@@ -4,7 +4,7 @@ This is Blathers-Bot, the one stop wiki scraping shop for dynamically accessing 
 ### Features
 This discord bot provides an interactive interface to the Animal Crossing Wiki, giving details on any villager! The commands it currently has are:
 
-- !ac_stats statistic villager_name: returns that statistic about the villager, such as personality or species
+- !ac_stats villager_name statistic: returns that statistic about the villager, such as personality or species
 - !ac_image villager_name: gets the profile image of the villager and displays it in the channel
 
 ### Dependencies
